@@ -8,10 +8,10 @@ const config = {
   favicon: 'img/logo.png',
 
   titleDelimiter: '-',
-  url: 'https://Shaking.site',      // 网站的 url 地址
+  url: 'https://cara.online',      // 网站的 url 地址
   baseUrl: '/',                     // 解析后的地址，如果设为 wsite，则 url 解析为https://xxx.xx/site
-  projectName: 'RoboPPN.github.io', // {username}.github.io
-  organizationName: 'RoboPPN',      // username
+  projectName: 'Cara35.github.io', // {username}.github.io
+  organizationName: 'Cara35',      // username
   deploymentBranch: 'main',         // 部署的默认分支,如果部署到同一个仓库下则可不指定
   onBrokenLinks: 'ignore',          // 编译遇到死链怎么处理  default：throw
   onBrokenMarkdownLinks: 'warn',
