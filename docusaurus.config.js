@@ -3,12 +3,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '帕帕尼的博客',
-  tagline: '积跬步成千里，积小流成江海',
+  title: 'Cara Planet',
+  tagline: '人生就这么短,别像npc一样',
   favicon: 'img/logo.png',
 
   titleDelimiter: '-',
-  url: 'https://cara.online',      // 网站的 url 地址
+  url: 'https://cara35.online',      // 网站的 url 地址
   baseUrl: '/',                     // 解析后的地址，如果设为 wsite，则 url 解析为https://xxx.xx/site
   projectName: 'Cara35.github.io', // {username}.github.io
   organizationName: 'Cara35',      // username
