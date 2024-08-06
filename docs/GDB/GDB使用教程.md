@@ -43,7 +43,7 @@ gdb --args ~/catkin_ws/src/ORB_SLAM3_detailed_comments-dense_map_new/Examples/RO
 # gdb 启动后
 (gdb) run
 
-# 程序崩溃时
+# 程序崩溃时列出详细信息
 (gdb) bt
 
 #离开
