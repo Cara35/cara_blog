@@ -1,5 +1,5 @@
 <h2 align="center">
-Cara 的个人博客
+Cara Planet
 </h2><br>
 
 <pre align="center">
