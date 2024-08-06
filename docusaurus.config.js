@@ -61,7 +61,7 @@ const config = {
         },
       },
       navbar: {
-        title: "Cara Blog",
+        title: "Cara Planet",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
