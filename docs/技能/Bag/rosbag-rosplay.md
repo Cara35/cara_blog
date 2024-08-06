@@ -1,6 +1,6 @@
 # rosbag-rosplay
 
-## rosbag
+## 基础指令
 
 ```
 #录入部分话题指令
@@ -13,7 +13,7 @@ rosbag record -o fileName -a
 rosbag play bag包名
 ```
 
-## rosplay
+## rosplay其他指令
 
 ```
 #正常速度播放
