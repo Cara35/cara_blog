@@ -17,7 +17,7 @@ Cara Planet
 
 ## 👋 Introduction
 
-想到什么写什么
+别想狂做
 
 ## 📊 Catalogue
 
